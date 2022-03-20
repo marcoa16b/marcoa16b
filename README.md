@@ -9,7 +9,16 @@ I'm a Computer Engineering student, 👨‍💻 passionate about web, blockchain
 - 🌱 I’m currently learning JavaScript, Python and Node
 - 😄 Pronouns: he/him
 - 💬 Ask me about: tech, anime
+
 ---
+<p align="center" >
+  <h3>My github stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=marcoa16b&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
+<br>
 
 ```javascript
 const marco = {
@@ -20,10 +29,7 @@ const marco = {
         frontEnd: {
             js: ["React"],
             css: ["MaterianUI", "SemanticUI"]
-        },
-        backEnd: {
-            // Learning...
-        },
+        }
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am working in my personal blog and portfolio",
