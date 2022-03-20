@@ -11,14 +11,6 @@ I'm a Computer Engineering student, 👨‍💻 passionate about web, blockchain
 - 💬 Ask me about: tech, anime
 
 ---
-<p align="center" >
-  <h3>My github stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=marcoa16b&&show_icons=true&theme=radical"/>
-  </a>
-</p>
-
-<br>
 
 ```javascript
 const marco = {
