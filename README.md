@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MarcoAgüero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoa16b)](https://www.linkedin.com/in/marcoa16b)
 [![Gmail Badge](https://img.shields.io/badge/-marcoferab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoferab@gmail.com)](mailto:marcoferab@gmail.com)
 
-Soy un estudiante de ingenieria en Informatica,👨‍💻 apasionado por las tecnologías web, blockchain y el código abierto. También me encanta el diseño gráfico y el dibujo.💻🖊️
+I'm a Computer Engineering student, 👨‍💻 passionate about web, blockchain and open source technologies. I also love graphic design and drawing.💻🖊️
 - 🔭 I’m currently working on Websites
 - 🌱 I’m currently learning JavaScript, Python and Node
 - 😄 Pronouns: he/him
