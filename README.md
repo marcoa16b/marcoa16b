@@ -8,7 +8,7 @@ I'm a Computer Engineering student, 👨‍💻 passionate about web, blockchain
 - 🔭 I’m currently working on Websites
 - 🌱 I’m currently learning JavaScript, Python and Node
 - 😄 Pronouns: he/him
-- 💬 Ask me about: tech, anime
+- 💬 Ask me about: tech, series, movies, music
 
 ---
 
