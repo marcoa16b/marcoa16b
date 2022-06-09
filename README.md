@@ -19,8 +19,12 @@ const marco = {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
-            js: ["React"],
-            css: ["MaterianUI", "SemanticUI"]
+            js: ["React", "Next"],
+            css: ["MaterianUI", "SemanticUI", "Tailwindcss", "Sass"]
+        },
+        Backend: {
+            Database: ["Firebase", "MongoDB"]
+            Languages: ["Python", "NodeJs"]
         }
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
