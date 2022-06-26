@@ -11,6 +11,8 @@ I'm a Computer Engineering student, 👨‍💻 passionate about web, blockchain
 - 💬 Ask me about: tech, series, movies, music
 
 ---
+[My portfolio](https://marselit-portfolio.vercel.app)
+---
 
 ```javascript
 const marco = {
