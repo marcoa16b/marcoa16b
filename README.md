@@ -12,9 +12,9 @@
 </br>
 
 - 🔭 I’m currently working on Websites and mobile apps
-- 🌱 I’m currently learning Typescript, C#, Dart and IA
+- 🌱 I’m currently learning about AI and improving my UI/UX skills
 - 😎 Currently learning Web Development and IA by Self
-- 🙈 Personal website [link](https://nandev.xyz)
+- 🙈 Personal website [link](https://nandev.vercel.app)
 - 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1x5EgzYxPFU--BQ-zFHui4P2C0GEtnuJF/view?usp=drive_link)
 
 </br>
